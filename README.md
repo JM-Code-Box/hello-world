@@ -1,7 +1,7 @@
 # hello-world
 10/22/2017
 
-> Javascript Developer.
+> Javascript Developer
 
 Focused toward:
 - Javascript
