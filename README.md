@@ -4,6 +4,6 @@
 > Javascript Developer.
 
 Focused toward:
-- Javascript (pure)
+- Javascript
 - NodeJS
 - ReactJS
