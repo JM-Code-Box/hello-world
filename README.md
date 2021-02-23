@@ -1,8 +1,8 @@
 # hello-world
 02/23/2021
 
-Python
-C++
+- Python
+- C++
 
 10/22/2017
 
